@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: eibcr9r2w-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/eibcr9r2w-go
